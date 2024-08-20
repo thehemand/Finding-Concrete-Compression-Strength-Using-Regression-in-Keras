@@ -4,7 +4,7 @@ The model is built using Keras and includes one hidden layer with ReLU activatio
 The process involves training the model on a dataset and evaluating its performance over 50 repetitions, 
 each time generating a mean squared error (MSE) to assess prediction accuracy.
 
-Project Overview
+Project Overview:
 The main objectives of this project are:
 
 Model Construction: Create a neural network model with one hidden layer of 10 nodes and ReLU activation.
